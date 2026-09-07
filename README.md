@@ -12,9 +12,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 Apoyitos</h3>
-      <p>A scholarship discovery project helping people find, understand, and pursue educational opportunities.</p>
-      <p><code>Scholarship discovery</code> <code>Education</code></p>
+      <h3>🤝 <a href="https://apoyito.me">Apoyito ↗</a></h3>
+      <p>Connecting reviewed cases in Peru with people who want to help through direct Yape, Plin, or bank-transfer support.</p>
+      <p><code>Direct support</code> <code>Trust &amp; transparency</code> <code>Peru</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://redlampsecurity.com/en">Red Lamp Security ↗</a></h3>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ Caliber</h3>
+      <h3>🎙️ Sales AI Management</h3>
       <p>Building voice-agent and scoring systems, together with the Supabase, Railway, Google Cloud, and DevSecOps foundations that keep them dependable.</p>
       <p><code>Voice AI</code> <code>Scoring</code> <code>Cloud delivery</code></p>
     </td>
